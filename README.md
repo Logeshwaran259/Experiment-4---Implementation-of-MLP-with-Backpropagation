@@ -119,8 +119,8 @@ Normalize our dataset.
 
 ## PROGRAM 
 ```
-Name : Ranjith G.
-Register Number : 212220220034
+Name : logeshwaran s
+Register Number : 212220040081
 ```
 ### Importing Libraries
 ```
